@@ -1,7 +1,8 @@
 import os
+from langchain_community.vectorstores import Chroma
+from langchain_text_splitters import CharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
-from langchain.text_splitter import CharacterTextSplitter
-from langchain.vectorstores import Chroma
+
 
 VECTOR_DB_DIR = "vector_db"
 DATA_DIR = "data/hr_knowledge"
