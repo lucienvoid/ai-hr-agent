@@ -1,0 +1,15 @@
+HR Hiring and Evaluation Workflow
+
+Candidates are evaluated across multiple stages to ensure fairness, consistency, and role alignment.
+
+The first stage is resume screening. In this stage, candidate resumes are analyzed and compared against job requirements. Skills, experience, and role relevance are evaluated using objective criteria to reduce bias.
+
+Candidates who pass resume screening move to the interview stage. Interviews are typically divided into multiple rounds.
+
+Technical interviews assess problem-solving ability, technical expertise, and role-specific knowledge. These interviews focus on how candidates approach real-world problems and apply their skills.
+
+Behavioral interviews evaluate communication skills, teamwork, adaptability, and cultural fit. Candidates are assessed on how they handle challenges, collaborate with others, and align with organizational values.
+
+Each interview stage is evaluated independently using predefined scoring rubrics. Scores from resume screening and interviews are combined to form an overall assessment.
+
+Final hiring decisions are based on cumulative performance across all stages rather than a single factor. This multi-stage evaluation approach improves hiring accuracy and fairness.
